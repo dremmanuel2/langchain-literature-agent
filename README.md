@@ -32,6 +32,7 @@ Supports local HTTP proxy (default: `127.0.0.1:8080`) for reliable access to Goo
 ---
 
 ## 🛠️ 快速开始 / Quick Start
+![result](https://github.com/user-attachments/assets/a4a2813c-fc27-45fa-96ec-07cf9a4d07b5)
 
 ### 1. 克隆仓库 / Clone the repo
 ```bash
@@ -67,7 +68,7 @@ python literature_agent.py
 本项目使用 scholarly 库访问 Google Scholar，请遵守其 使用条款。
 频繁请求可能导致 IP 被临时限制，程序已内置 time.sleep(1) 缓冲。
 若无需 LLM 总结，可直接调用 search_literature() 函数获取原始结果。
-![学术助手运行截图]("https://github.com/user-attachments/assets/4b1d7170-4e6c-4906-8f9f-40bd06bb259e")
+
 
 
 📜 许可证 / License
