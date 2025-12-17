@@ -67,6 +67,9 @@ python literature_agent.py
 本项目使用 scholarly 库访问 Google Scholar，请遵守其 使用条款。
 频繁请求可能导致 IP 被临时限制，程序已内置 time.sleep(1) 缓冲。
 若无需 LLM 总结，可直接调用 search_literature() 函数获取原始结果。
+<img width="1263" height="790" alt="image" src="https://github.com/user-attachments/assets/4b1d7170-4e6c-4906-8f9f-40bd06bb259e" />
+
+
 📜 许可证 / License
 本项目采用 MIT 许可证。
 
